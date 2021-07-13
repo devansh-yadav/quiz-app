@@ -1,32 +1,32 @@
 const quizData = [
     {
-        question: 'Which type of language JavaScript is',
-        a: 'Object-Oriented',
-        b: 'Object-Based',
-        c: 'Assembly-language',
-        d: 'High-level',
-        correct: 'b'
-    }, {
-        question: 'The "function" and "var" are known as:',
-        a: 'Keywords',
-        b: 'Data types',
-        c: 'Declaration statements',
-        d: 'Prototypes',
+        question: 'What does CSS stand for?',
+        a: 'Computer Style Sheets',
+        b: 'Creative Style Sheets',
+        c: 'Cascading Style Sheets',
+        d: 'Colorful Style Sheets',
         correct: 'c'
     }, {
-        question: 'Which one of the following is not a keyword:',
+        question: 'Which HTML tag is used to define an internal style sheet?',
+        a: '<style>',
+        b: '<script>',
+        c: '<headStyle>',
+        d: '<css>',
+        correct: 'a'
+    }, {
+        question: 'Which one of the following is not a keyword in JavaScript?',
         a: 'if',
         b: 'with',
         c: 'debugger',
         d: 'use strict',
         correct: 'd'
     }, {
-        question: 'If a function which does not return a value is known as',
-        a: 'Static function',
-        b: 'Procedures',
-        c: 'Method',
-        d: 'Dynamic function',
-        correct: 'd'
+        question: 'Which property is used to change the background color?',
+        a: 'color',
+        b: 'bgcolor',
+        c: 'background-color',
+        d: 'bgColor',
+        correct: 'c'
     }
 ];
 
